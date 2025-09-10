@@ -2,6 +2,7 @@
 This project explores time series forecasting using multiple datasets. It includes data preprocessing, exploratory analysis, trend decomposition, ARIMA/SARIMA modeling, and performance evaluation. The project demonstrates end-to-end time series workflow and prediction of future trends.
 # Datasets Used 
 Apple Stock Price from 1980-2021 -> https://www.kaggle.com/datasets/meetnagadia/apple-stock-price-from-19802021 from kaggle.
+
 Supermarket Sales -> https://www.kaggle.com/datasets/hosammhmdali/supermarket-sales  from kaggle.
 
 # Key Tasks / Steps
