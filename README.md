@@ -7,9 +7,13 @@ Supermarket Sales -> https://www.kaggle.com/datasets/hosammhmdali/supermarket-sa
 
 # Key Tasks / Steps
 Loading and cleaning datasets
+
 Visualizing trends, seasonality, and correlations
+
 Moving averages and smoothing
+
 ARIMA/SARIMA modeling and forecasting
+
 Model evaluation (RMSE, MAE)
 
 # Technologies / Libraries
